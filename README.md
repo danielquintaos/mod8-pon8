@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Execute the script from the terminal with the audio file path as an argument:
 ```bash
-python app.py sample/speech.mp3
+python src/app.py sample/speech.mp3
 ```
 
 
